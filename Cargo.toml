@@ -16,6 +16,10 @@ cfg-if = "1"
 pollster = "0.2"
 bytemuck = { version = "1.4", features = [ "derive" ] }
 cgmath = "0.18"
+anyhow = "1.0"
+fs_extra = "1.2"
+glob = "0.3"
+
 
 [dependencies.image]
 version = "0.24"
